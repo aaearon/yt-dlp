@@ -116,7 +116,7 @@ class CybraryCourseIE(CybraryBaseIE):
     _TESTS = [{
         'url': 'https://app.cybrary.it/browse/course/az-500-microsoft-azure-security-technologies',
         'info_dict': {
-            'id': 898,
+            'id': '898',
             'title': 'AZ-500: Microsoft Azure Security Technologies',
             'description': 'md5:69549d379c0fc1dec92926d4e8b6fbd4'
         },
@@ -124,7 +124,7 @@ class CybraryCourseIE(CybraryBaseIE):
     }, {
         'url': 'https://app.cybrary.it/browse/course/cybrary-orientation',
         'info_dict': {
-            'id': 1245,
+            'id': '1245',
             'title': 'Cybrary Orientation',
             'description': 'md5:9e69ff66b32fe78744e0ad4babe2e88e'
         },
